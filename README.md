@@ -8,3 +8,5 @@
  - [X] Fila
  - [X] Lista Duplamente Encadeada
  - [ ] Lista Circular
+ - [X] ABP
+ - [X] AVL

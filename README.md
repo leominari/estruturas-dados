@@ -1,7 +1,10 @@
-# Indexação do Disco na RAM
+# Estruturas de Dados
 
 |         Versão       |Oque foi feito?                                                  |
 |----------------|-------------------------------|
 |**v0.1**|`Envio Codigo`            |
 
- - [X] Codigo Completo 
+ - [X] Pilha
+ - [X] Fila
+ - [X] Lista Duplamente Encadeada
+ - [ ] Lista Circular
